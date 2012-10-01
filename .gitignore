@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!.gitattributes
+
+!*.pcb
+!*.sch
+!*.cml
+!*.cmx
+!*.prj
+!*.pdf
+!*/
+
+*~
+~*
+
